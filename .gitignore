@@ -1,0 +1,18 @@
+.venv/
+# Django specific
+*.log
+*.pot
+*.pyc
+*.mo
+*.pyc
+*.sqlite3
+*.pyo
+*.pyd
+*.sql
+*.pdb
+*.egg-info
+.DS_Store
+
+# Django migrations
+*/migrations/*
+!*/migrations/__init__.py
